@@ -4,7 +4,7 @@ For this project, I use publicly available data to build a regression model to p
 
 ### Documents:  
 mode_select.py contains functions to select models and hyperparameters.  
-BostonHousing.ipynb goes though the workflow of predicting housing prices.
+BostonHousing.ipynb goes though the workflow of predicting housing prices.  
 
 ---
 
